@@ -7,8 +7,8 @@ This repository contains sample web assets and a small Flask application for a t
 Clone the repository and navigate into its directory:
 
 ```bash
-git clone https://github.com/jeihaan/jeihaan.github.io.git
-cd jeihaan.github.io
+git clone https://github.com/Jeihaan/Valuations_aget
+cd Valuations_aget
 ```
 
 
